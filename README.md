@@ -103,14 +103,6 @@ An interactive chatbot capable of providing conversational responses using Natur
 
 ---
 
-## 📈 GitHub Stats
-
-![Shraddha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shraddhaA2&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhaA2&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/shraddha-ashoka-2b6416295
