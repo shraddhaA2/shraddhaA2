@@ -102,13 +102,19 @@ An interactive chatbot capable of providing conversational responses using Natur
 - JavaScript
 
 ---
+## 🌐 Portfolio
+
+🔗 **Portfolio Repository:**  
+https://github.com/shraddhaA2/shraddha-portfolio
+
+---
 
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/shraddha-ashoka-2b6416295
 - 📧 Email: sherigarshraddha1@gmail.com
-- 🌐 Portfolio: https://shraddhaa2.github.io/shraddhaA2/
-
+- 💻 GitHub: https://github.com/shraddhaA2
+- 🌐 Portfolio Repository: https://github.com/shraddhaA2/shraddha-portfolio
 ---
 
 > *"Building practical software that solves real-world problems, one project at a time."*
