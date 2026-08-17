@@ -114,7 +114,7 @@ https://github.com/shraddhaA2/shraddha-portfolio
 - 💼 LinkedIn: https://www.linkedin.com/in/shraddha-ashoka-2b6416295
 - 📧 Email: sherigarshraddha1@gmail.com
 - 💻 GitHub: https://github.com/shraddhaA2
-- 🌐 Portfolio Repository: https://github.com/shraddhaA2/shraddha-portfolio
+- 🌐 Portfolio Repository: https://shraddha-portfolio-bnof.onrender.com
 ---
 
 > *"Building practical software that solves real-world problems, one project at a time."*
