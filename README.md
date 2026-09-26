@@ -1,26 +1,35 @@
 # Hi there 👋, I'm Shraddha Ashoka
 
-### Computer Science Engineering Student | AI/ML Enthusiast | Software Developer
+### Computer Science Engineering Student | Software Developer | AI/ML Enthusiast
 
-I'm a Computer Science Engineering student from Bengaluru, India, interested in Artificial Intelligence, Machine Learning, Computer Vision, and software development. I enjoy building practical systems that combine intelligent technologies with reliable and user-friendly software.
+I'm a Computer Science Engineering student from Bengaluru, India, interested in **software engineering, Artificial Intelligence, Machine Learning, Computer Vision, and Generative AI**.
 
-I'm particularly interested in exploring how machine learning can be integrated into real-world applications, from computer vision and Generative AI to intelligent software systems.
+I enjoy building practical applications that combine intelligent technologies with reliable software, with a particular interest in **backend systems, developer tools, AI-powered applications, and secure software engineering**.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.E. Computer Science & Engineering student
-* 🤖 Interested in Artificial Intelligence, Machine Learning & Deep Learning
-* 👁️ Exploring Computer Vision and Image Processing
-* 🧠 Interested in Generative AI and intelligent systems
-* 💻 Building practical software and AI-powered applications
-* 🧪 Interested in testing, security analysis, and reliable software
-* 🌱 Currently strengthening my knowledge of advanced AI/ML and backend development
+* 🎓 B.E. Computer Science & Engineering student, Class of 2027
+* 💻 Interested in Software Engineering and Full-Stack Development
+* 🤖 Exploring Artificial Intelligence, Machine Learning & Deep Learning
+* 👁️ Interested in Computer Vision and Image Processing
+* 🧠 Exploring Generative AI, RAG and intelligent systems
+* 🔐 Interested in security analysis and reliable software
+* 🧪 Building applications with testing, static analysis and API-driven architectures
+* 🌱 Currently strengthening my skills in backend development, AI/ML and software engineering
 
 ---
 
 ## 🛠️ Tech Stack
+
+### Programming Languages
+
+* Python
+* TypeScript
+* JavaScript
+* Java
+* C
 
 ### AI / Machine Learning
 
@@ -39,33 +48,29 @@ I'm particularly interested in exploring how machine learning can be integrated 
 * OpenCV
 * NumPy
 * Pandas
+* FastAPI
 * Flask
+* React.js
 
 ### Web Development
 
 * React.js
-* Node.js
+* TypeScript
+* JavaScript
 * HTML5
 * CSS3
-* JavaScript
-* TypeScript
 * REST APIs
+* Vite
 
-### Programming Languages
-
-* Python
-* Java
-* C
-
-### Database & Tools
+### Databases & Tools
 
 * MySQL
 * SQL
+* SQLite
 * Git
 * GitHub
 * VS Code
-* Vite
-* Netlify
+* NetworkX
 
 ### Software Engineering
 
@@ -74,135 +79,143 @@ I'm particularly interested in exploring how machine learning can be integrated 
 * Unit Testing
 * Debugging
 * Code Quality Analysis
+* API Development
+* AST-based Analysis
 
 ---
 
 # 🚀 Featured Projects
 
-## ✍️ Handwritten Amharic Character Recognition
+## 🩺 Codebase Doctor
 
-A computer vision and machine learning project focused on recognizing handwritten Amharic characters using transfer learning and machine learning classifiers.
+**Zero-execution static analysis and health scoring system for public Python repositories.**
 
-**Highlights**
+Codebase Doctor treats scanned repositories as **untrusted input** and analyzes them without executing repository code, test suites, setup scripts or dependency installation.
 
-* Explored and prepared a large handwritten character dataset
-* Applied grayscale conversion, noise filtering, Otsu thresholding and bounding-box detection
-* Used centering, padding, resizing and image normalization for model input
-* Experimented with pretrained CNN architectures for feature extraction
-* Evaluated SVM, Random Forest and XGBoost classifiers
-* Integrated the recognition workflow into a web application
+### Highlights
 
-**Tech Stack**
+* 🔐 Zero-execution repository analysis
+* 🛡️ GitHub URL allowlisting and SSRF protection
+* 📦 Clone size, file-count and filesystem guards
+* 🔗 Symlink escape protection
+* 🔑 Secret and credential redaction
+* 🔎 Ruff, Bandit, Semgrep and pip-audit integration
+* 🏗️ AST-based import graph and coupling analysis
+* 🔄 Circular dependency detection
+* 📊 Deterministic six-dimensional health scoring
+* 🤖 Optional LLM-powered diagnosis
+* 🩹 Export-only AI-generated unified-diff patch proposals
+* 🧪 Automated security, scoring, pipeline and API tests
 
-* Python
-* PyTorch
-* Torchvision
-* OpenCV
-* Scikit-learn
-* XGBoost
-* NumPy
-* Pandas
-* React
-* TypeScript
-* Node.js
+### Tech Stack
+
+**Python · FastAPI · SQLAlchemy · SQLite · Ruff · Bandit · Semgrep · pip-audit · Python AST · NetworkX · React · TypeScript · Vite · Tailwind CSS · Recharts · Monaco Editor**
+
+🔗 **Repository:**
+https://github.com/shraddhaA2/CODEBASE-DOCTOR
 
 ---
 
-## 🩺 Codebase Doctor
+## ✍️ Handwritten Amharic Character Recognition
 
-An automated codebase analysis tool designed to identify programming issues and potential security vulnerabilities.
+A computer vision and machine learning project focused on recognizing handwritten Amharic characters using **transfer learning and machine learning classifiers**.
 
-**Highlights**
+### Highlights
 
-* Modular code scanning and analysis
-* Static code analysis
-* Security vulnerability detection
-* Automated unit testing
-* Debugging and validation of analyzer components
-* Focus on maintainable and reliable software
+* Prepared and analyzed a handwritten character dataset
+* Applied grayscale conversion and noise filtering
+* Used Otsu thresholding and bounding-box detection
+* Applied centering, padding, resizing and image normalization
+* Used pretrained CNN architectures for feature extraction
+* Experimented with SVM, Random Forest and XGBoost classifiers
+* Integrated the recognition workflow into a web application
 
-**Tech Stack**
+### Tech Stack
 
-* Python
-* Static Analysis
-* Security Analysis
-* Unit Testing
+**Python · PyTorch · Torchvision · OpenCV · Scikit-learn · XGBoost · NumPy · Pandas · React · TypeScript**
+
+🔗 **Repository:**
+https://github.com/shraddhaA2/handwritten-amharic-character-recognition
 
 ---
 
 ## 📄 AI Resume Analyzer
 
-An AI-powered web application that analyzes resumes using ATS-oriented evaluation and provides automated improvement suggestions.
+An AI-powered web application that analyzes resumes using ATS-oriented evaluation and generates automated improvement suggestions.
 
-**Highlights**
+### Highlights
 
 * Resume analysis and scoring
 * ATS-oriented evaluation
+* PDF/DOCX resume processing
 * Automated improvement suggestions
 * REST API-based backend
 * Generative AI integration using Gemini API
 
-**Tech Stack**
+### Tech Stack
 
-* Python
-* Flask
-* Gemini API
-* HTML
-* CSS
-* JavaScript
+**Python · Flask · Gemini API · HTML · CSS · JavaScript**
 
 ---
 
 ## 🧊 Sri Kaveri Ice Plant Commercial Website
 
-A responsive business website developed for an industrial ice manufacturing company.
+A responsive commercial website developed for an industrial ice manufacturing business.
 
-**Highlights**
+### Highlights
 
-* Responsive design
+* Responsive business interface
 * Product showcase
-* Business-focused interface
+* Business-focused design
 * Contact and enquiry workflow
 * Mobile-friendly layout
 
-**Tech Stack**
+### Tech Stack
 
-* HTML
-* CSS
-* JavaScript
+**React · TypeScript · Vite · HTML · CSS**
+
+🔗 **Website:**
+https://sri-kaveri-ice-plant.onrender.com
 
 ---
 
 ## 🎭 Fake & Real Face Detection
 
-A machine learning application designed to distinguish between fake and real human faces using deep learning techniques.
+A machine learning application designed to distinguish between fake and real human faces using computer vision and deep learning techniques.
 
-**Tech Stack**
+### Tech Stack
 
-* Python
-* Machine Learning
-* Deep Learning
-* HTML
-* CSS
-* JavaScript
+**Python · OpenCV · Machine Learning · Deep Learning · HTML · CSS · JavaScript**
 
 ---
 
 ## 💬 AI Chatbot
 
-An interactive chatbot application capable of generating conversational responses using Natural Language Processing techniques.
+An interactive chatbot application exploring conversational responses using Natural Language Processing techniques.
 
-**Tech Stack**
+### Tech Stack
 
-* Python
-* NLP
-* HTML
-* CSS
-* JavaScript
+**Python · NLP · HTML · CSS · JavaScript**
 
 ---
 
-## 🌐 Portfolio
+# 🎯 Areas of Interest
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Generative AI
+* Retrieval-Augmented Generation
+* AI Agents
+* Software Engineering
+* Backend Development
+* Developer Tools
+* Secure & Reliable Software
+
+---
+
+# 🌐 Portfolio
 
 🔗 **Portfolio:**
 https://shraddha-portfolio-bnof.onrender.com
@@ -212,26 +225,12 @@ https://github.com/shraddhaA2/shraddha-portfolio
 
 ---
 
-## 📌 Areas of Interest
+# 🤝 Connect With Me
 
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Generative AI
-* Intelligent Systems
-* AI Agents
-* Software Engineering
-* Reliable and Secure Software
-
----
-
-## 🤝 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/shraddha-ashoka-2b6416295
-* 📧 Email: [sherigarshraddha1@gmail.com](mailto:sherigarshraddha1@gmail.com)
-* 💻 GitHub: https://github.com/shraddhaA2
-* 🌐 Portfolio: https://shraddha-portfolio-bnof.onrender.com
+* 💼 **LinkedIn:** https://www.linkedin.com/in/shraddha-ashoka-2b6416295
+* 📧 **Email:** [sherigarshraddha1@gmail.com](mailto:sherigarshraddha1@gmail.com)
+* 💻 **GitHub:** https://github.com/shraddhaA2
+* 🌐 **Portfolio:** https://shraddha-portfolio-bnof.onrender.com
 
 ---
 
