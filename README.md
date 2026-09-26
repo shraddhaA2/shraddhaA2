@@ -1,7 +1,5 @@
 <p align="center">
   <img src="./banner.png" alt="Shraddha Ashoka GitHub Banner" width="100%">
-</p><p align="center">
-  <img src="./banner.png" alt="Shraddha Ashoka GitHub Banner" width="100%">
 </p>
 
 # Hi there 👋, I'm Shraddha Ashoka
