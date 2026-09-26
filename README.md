@@ -6,9 +6,9 @@
 
 ### Computer Science Engineering Student | Software Developer | AI/ML Enthusiast
 
-I'm a Computer Science Engineering student from Bengaluru, India, interested in **software engineering, Artificial Intelligence, Machine Learning, Computer Vision, and Generative AI**.
+I'm a **Computer Science Engineering student from Bengaluru, India**, interested in **Software Engineering, Artificial Intelligence, Machine Learning, Computer Vision, and Generative AI**.
 
-I enjoy building practical applications that combine intelligent technologies with reliable software, with a particular interest in **backend systems, developer tools, AI-powered applications, and secure software engineering**.
+I enjoy building practical applications that combine intelligent technologies with reliable software, with a particular interest in **backend systems, developer tools, AI-powered applications, APIs, and secure software engineering**.
 
 ---
 
@@ -19,8 +19,8 @@ I enjoy building practical applications that combine intelligent technologies wi
 * 🤖 Exploring Artificial Intelligence, Machine Learning & Deep Learning
 * 👁️ Interested in Computer Vision and Image Processing
 * 🧠 Exploring Generative AI, RAG and intelligent systems
-* 🔐 Interested in security analysis and reliable software
-* 🧪 Building applications with testing, static analysis and API-driven architectures
+* 🔐 Interested in secure and reliable software
+* 🧪 Building applications using APIs, testing and static analysis
 * 🌱 Currently strengthening my skills in backend development, AI/ML and software engineering
 
 ---
@@ -29,62 +29,27 @@ I enjoy building practical applications that combine intelligent technologies wi
 
 ### Programming Languages
 
-* Python
-* TypeScript
-* JavaScript
-* Java
-* C
+**Python · TypeScript · JavaScript · SQL · HTML · CSS**
 
 ### AI / Machine Learning
 
-* Machine Learning
-* Deep Learning
-* Transfer Learning
-* Computer Vision
-* Image Processing
-* Image Classification
-* Generative AI
+**Machine Learning · Deep Learning · Transfer Learning · Computer Vision · Image Processing · Generative AI · RAG**
 
 ### Frameworks & Libraries
 
-* PyTorch
-* Scikit-learn
-* OpenCV
-* NumPy
-* Pandas
-* FastAPI
-* Flask
-* React.js
+**FastAPI · Flask · React.js · PyTorch · Scikit-learn · OpenCV · NumPy · Pandas**
 
 ### Web Development
 
-* React.js
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
-* REST APIs
-* Vite
+**React.js · TypeScript · JavaScript · HTML5 · CSS3 · REST APIs · Vite**
 
 ### Databases & Tools
 
-* MySQL
-* SQL
-* SQLite
-* Git
-* GitHub
-* VS Code
-* NetworkX
+**MySQL · SQLite · Git · GitHub · VS Code · NetworkX**
 
 ### Software Engineering
 
-* Static Analysis
-* Security Analysis
-* Unit Testing
-* Debugging
-* Code Quality Analysis
-* API Development
-* AST-based Analysis
+**Static Analysis · Security Analysis · Unit Testing · Debugging · Code Quality Analysis · API Development · AST-based Analysis**
 
 ---
 
@@ -111,12 +76,36 @@ Codebase Doctor treats scanned repositories as **untrusted input** and analyzes 
 * 🩹 Export-only AI-generated unified-diff patch proposals
 * 🧪 Automated security, scoring, pipeline and API tests
 
-### Tech Stack
-
-**Python · FastAPI · SQLAlchemy · SQLite · Ruff · Bandit · Semgrep · pip-audit · Python AST · NetworkX · React · TypeScript · Vite · Tailwind CSS · Recharts · Monaco Editor**
+**Tech:** Python · FastAPI · SQLAlchemy · SQLite · Ruff · Bandit · Semgrep · pip-audit · Python AST · NetworkX · React · TypeScript · Vite · Tailwind CSS · Recharts · Monaco Editor
 
 🔗 **Repository:**
 https://github.com/shraddhaA2/CODEBASE-DOCTOR
+
+---
+
+## 🔒 PrivateDoc AI
+
+**Privacy-first, offline document question-answering system using Retrieval-Augmented Generation.**
+
+PrivateDoc AI processes documents locally and retrieves relevant passages for question answering without sending document content to cloud AI services.
+
+### Highlights
+
+* 🔒 Local document processing
+* 📄 PDF extraction with PyMuPDF
+* 🔍 OCR support using Tesseract
+* 🧠 Local sentence-transformer embeddings
+* ⚡ FAISS vector similarity search
+* 📑 Page-aware document chunking
+* 🔗 Page-level source citations
+* 🤖 Optional local LLM integration
+* 🌐 React + FastAPI architecture
+* 🚫 No cloud AI dependency for the core RAG pipeline
+
+**Tech:** Python · FastAPI · Pydantic · React · TypeScript · Vite · PyMuPDF · Tesseract · Sentence Transformers · FAISS · SQLite
+
+🔗 **Repository:**
+https://github.com/shraddhaA2/privatedoc-ai
 
 ---
 
@@ -134,9 +123,7 @@ A computer vision and machine learning project focused on recognizing handwritte
 * Experimented with SVM, Random Forest and XGBoost classifiers
 * Integrated the recognition workflow into a web application
 
-### Tech Stack
-
-**Python · PyTorch · Torchvision · OpenCV · Scikit-learn · XGBoost · NumPy · Pandas · React · TypeScript**
+**Tech:** Python · PyTorch · Torchvision · OpenCV · Scikit-learn · XGBoost · NumPy · Pandas · React · TypeScript
 
 🔗 **Repository:**
 https://github.com/shraddhaA2/handwritten-amharic-character-recognition
@@ -145,7 +132,7 @@ https://github.com/shraddhaA2/handwritten-amharic-character-recognition
 
 ## 📄 AI Resume Analyzer
 
-An AI-powered web application that analyzes resumes using ATS-oriented evaluation and generates automated improvement suggestions.
+An AI-powered web application that analyzes resumes using **ATS-oriented evaluation** and generates automated improvement suggestions.
 
 ### Highlights
 
@@ -156,9 +143,10 @@ An AI-powered web application that analyzes resumes using ATS-oriented evaluatio
 * REST API-based backend
 * Generative AI integration using Gemini API
 
-### Tech Stack
+**Tech:** Python · Flask · Gemini API · HTML · CSS · JavaScript
 
-**Python · Flask · Gemini API · HTML · CSS · JavaScript**
+🔗 **Repository:**
+https://github.com/shraddhaA2/AI-Resume-Analyzer
 
 ---
 
@@ -174,48 +162,19 @@ A responsive commercial website developed for an industrial ice manufacturing bu
 * Contact and enquiry workflow
 * Mobile-friendly layout
 
-### Tech Stack
-
-**React · TypeScript · Vite · HTML · CSS**
+**Tech:** React · TypeScript · Vite · HTML · CSS
 
 🔗 **Website:**
 https://sri-kaveri-ice-plant.onrender.com
 
----
-
-## 🎭 Fake & Real Face Detection
-
-A machine learning application designed to distinguish between fake and real human faces using computer vision and deep learning techniques.
-
-### Tech Stack
-
-**Python · OpenCV · Machine Learning · Deep Learning · HTML · CSS · JavaScript**
-
----
-
-## 💬 AI Chatbot
-
-An interactive chatbot application exploring conversational responses using Natural Language Processing techniques.
-
-### Tech Stack
-
-**Python · NLP · HTML · CSS · JavaScript**
+🔗 **Repository:**
+https://github.com/shraddhaA2/sri-kaveri-ice-plant
 
 ---
 
 # 🎯 Areas of Interest
 
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Generative AI
-* Retrieval-Augmented Generation
-* AI Agents
-* Software Engineering
-* Backend Development
-* Developer Tools
-* Secure & Reliable Software
+**Artificial Intelligence · Machine Learning · Deep Learning · Computer Vision · Generative AI · RAG · AI Agents · Software Engineering · Backend Development · Developer Tools · Secure & Reliable Software**
 
 ---
 
